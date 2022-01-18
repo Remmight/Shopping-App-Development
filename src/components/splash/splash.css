@@ -1,0 +1,19 @@
+.splash_main{
+    background-image: linear-gradient(#feae3ed7, #fa7a3fd9, #f86d3ed7);
+    width: 100%;
+    height: 100vh;
+}
+
+.splash_main_text{
+     font-size: calc(1.25rem + 2.1vw);
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.splash_btn_round{
+    border-radius: 20px !important;
+}
+
+.splash_small_text{
+    font-weight: 700;
+}
